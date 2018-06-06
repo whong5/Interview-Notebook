@@ -1,0 +1,438 @@
+--------------------------------------------------------------------------------
+1. Introduction
+
+  - Understand key elements of a Project and why organiszations use them
+      . key elements
+          a. Introduce Change
+          b. Temporatry, it has a defined beginning and end
+          c. Cross-Functional
+          d. Deals with the Unknown
+          e. Unique
+          all of them vary in size/time/budget
+      . why organisations use them
+          a. Allows them to deliver change in a structured and formal manner
+          b. Effective and Effcient management of organisztions limited resources
+          c. Establish ownership and accoutability - process and benefits
+          d. Provide clarity and agreement across what will be done, when, who, why and the outcomes
+          
+  - Understand the foundational components of Project Management
+      . Planning
+      . delegating
+      . monitoring
+      . controlling
+      . motivating those invloded to finish within the expected targets for time, cose, quality, scope, benefits and risks.
+      
+  - Understand key skills and responsibilities / activities of a Porject Manger
+      . Core Skills / Attributes:
+          a. Work well under pressure
+          b. Comfortable in change and changing environments
+          c. Effective commouncation skills
+          d. Action oriented and leave nothing for tomorrow
+          e. Command & Control
+--------------------------------------------------------------------------------
+2. Project Initialization
+
+  - Unserstand the Project Initialization process, Business case structure and why organizations use them
+      . Analyze Case Study (business needs)
+      . Analyze Constraints (scope, time, cost)
+      . Develop Business Case (cost verses benefits) !!!!!!!!!!! key !!!!!!!!!!!!!!!!
+          - The purpose of the Business Case is to establish mechanisms to judge whether the project is (and remains)
+            desirable, viable, achievable as a means to support decision making in its initial and continued investment.
+      . Develop Project Charter (stakeholders analysis)
+--------------------------------------------------------------------------------
+3. Management Plan and SDLC (Software Development Lifecycle)
+
+  - Understand what a Process is and its relevance to Project Management
+      . A process is a series of progressive and interdependent steps by which an end is attained.
+          a. Project Management is a process as it defines a series of tasks (Planning, executing, controlling) to
+             deliver a specific / agreed outcome.
+          b. SDLCs which are an element of Software Engineering, are a process as they define a set of actions to
+             deliver a system / product.
+  - Understand what a Project Management Plan (PMP) is and when it is used
+      . A PMP is a formal approved document that defines how the project is execued, monitored and controlled.
+        It is a document that is owned, controlled and populated by the project Manager and is used throught
+        the project. A good PMP provides the required level of details across key project components and is the one
+        source of truth for all parties involved across the project.
+  - Understand the components of PMP
+      . Executive Summary
+      . Introduction
+          - Prupose of document
+          - Audience of document
+          - Limitation of document
+          - Evolution of document
+      . Project Infotmation
+          - Key Stakeholders
+          - Scope
+          - Delivery approach (SDLC)
+          - Business value
+          - Constraints
+      . Project Governance
+          - Roles and Responsibilities
+          - Communication Plan
+          - Risk Management
+          - Project Planning
+  - Understand what a SDLC is and the advantages / disadvantages of various models
+      - Waterfall (formal)
+          . Key
+              - change
+              - how to use, understand and people (project manager and developer)
+              - risk
+              - clearity of requirements
+        -> when to use formal SDLC
+            1. When the customer has a clear view of what they want
+            2. Projects that require little or no change requirements
+            3. Requirements are clearly defined and documented
+            4. Develpoment technologies and tools are well-known
+            5. Large scale applications and systems development
+--------------------------------------------------------------------------------
+4 & 5. Agile Scrum
+    - Understand Scrum, Roles, Ceremonies and Artefacts.
+        . Roles
+            - Product Owner
+                . Defines the features of the product
+                . Decides on release data and content
+                . Is responsible for the profitability of the product
+                . Prioritises features according to market value
+                . Adjusts features and priority every iteration, as needed
+                . Accepts or reject work results
+            - Scrum Master
+                . Represenets management to the project
+                . Responsible for enacting Scrum values and practices
+                . Removes road blocks
+                . Ensures that the team is fully functional and productive
+                . Enables close cooperation across all roles and functions
+                . Shieds the team from external interferences
+        . Ceremonies
+            - Sprint planning
+                . Defines how to achieve sprint goal (design)
+                . Create sprint backlog (User Stories) from product backlog
+                . Estimate sprint backlog in team velocity and Story Points
+                . Team uses Product Owner priority to guide the work
+                . High-level design is considered
+            - Daily Stand-up
+                . Whole world is invited, but only team members, scrum masters, product owner can talk.
+                . Helps avoids other unnecssary meetings. (15 mins)
+                . 3 key questions asked:
+                    1. What did I do yesterday
+                    2. What will I do today
+                    3. What is in my way to get my work completed
+            - Sprint Reviews
+                . Team presents what it accomplished during the sprint
+                . Typically takes the form of a demo of new features or underlying archietecture
+                . Infomal, 2-hour prep time rule
+                . No slides
+                . Whole team participates, invite the world
+            - Sprint Retrospective
+                . Periodically look at what is and isn't doing
+                . Typically 30 mins
+                . Done after every sprint
+                . Whole team participates (possibly customers and others)
+                . Disccuss three things mainly:
+                    1. Start Doing
+                    2. Stop Doing
+                    3. Continue doing
+        . Artifacts
+            - Product backlog
+                . Product backlog Feature Level User Stories (FLUS) are selected for a Sprint by product owner
+                . Reprioritised at the start of each sprint
+            - Sprint backlog
+                . Scrum team decompose F_US to Low Level User Stories (L_US) during sprint planning
+                . Developers update L_US with the tasks and hours estimates, "Just in Time"
+                . User Stories are estimated in Story Points, remaning items are updated daily
+                . Sprint backlog is seldom altered
+                . User Stories are either not done or 100% completed
+            - Burndown charts
+                . It is a graphical representation of work left to do versus time
+                . It is used to predict when all of the work will be completed
+            
+    - Understand advantage / disadvantage of Agile.
+        . Advantages
+            - Cusotmers satisfaction by rapid, continuous delivery of usable software
+            - People and interactions are emphasised rather than process and tools
+            - Continous attention to technical excellence, good design and quality
+            - Regular adapatation to changing circumstances
+        . Disadvantages
+            - Difficult to assess the effort required at the beginning
+            - Can be very demanding (from traditional approaches) on users time
+            - Harder for new starters to intergrate into the team
+            - Agile is a very different appraoch - It can be intense for the team
+            - Requires experienced resources (which are limited in today's market)
+--------------------------------------------------------------------------------
+6. Individual and Motivation
+
+    - Understand organisational theory and how people are motivated
+         . Maslow hierarchy of needs
+         . Hertzberg Two factor theory
+    - Understand how leaders lead and managers manage
+         . Commanding
+         . Visionary
+         . Affiliative
+         . Democratic
+         . Pace-setting
+         . Coaching
+    - Understand how to manage the most important project resource
+         - That's you!!!!!!!!!!!!!
+             1. They take Initiative!
+             2. They focus on Goals!
+             3. They set Priorities!
+             4. They only win when Others win!
+             5. They Communicate!
+             6. They Cooperate!
+             7. They Refelect on and Repair Their Deficiencies!
+--------------------------------------------------------------------------------
+7. People and Team
+
+    - Understand how teams form and perform
+        . Tuckman's Team Development Model
+            1. Forming
+                - Establishing ground rules and preserving formalities
+            2. Storming
+                - Members, communicate, but maintain strict individuality
+            3. Norming
+                - Team bonding and higher acceptance of perspectives
+            4. Performing
+                - Less emphasis of hierarchy and more on flexibility
+            5. Adjouming (critical)
+                - Yearly assessment and plan for acknowledging individual contributions
+    - Understand team roles and structures
+        - Controlled Centralised
+        - Controlled Decentralised
+        - Democratic Decentralised
+        - Scrum Team
+    - Understand the advantage / disadvantage of teams
+        . disadvantage
+            - Take time, effort, and great skill to effectivly manage
+            - Some people may find it difficult and may become overshadowed / overwhelmed
+            - Unequal involvement, or one person can demorlise the whole team
+            - group thinking
+--------------------------------------------------------------------------------
+8. Communication Management
+    
+    - Understand the importance of listening
+        . Shows the speaker you are concerned or interested
+        . Leads to getting better information
+        . Encourages futher communication
+        . Has the potential to enhance relationships
+        . Can calm down someone who is upset
+        . Invites other to listen to you
+        . Leads to better co-operation and problem solving
+    - Unserstand a communications plan and how it is used
+        - A good project Communication Management Plan:
+            1. Ensures communications is effective and efficient
+            2. Allows the Project Manager to be pro-active
+            3. Set a common understand of what will be done and when
+            4. Clarifies who is responsible for key items, what will be delievered
+          . Project Team Diretory
+          . Communication Matrix
+          . Communication Flow Chart
+          . Communication Escalation Process
+          . Glossary of Communication Terminology    
+--------------------------------------------------------------------------------
+9. Stakeholder Management
+
+    - Understand the Stakeholder Management Process
+        1. Identifying Stakeholders (power and interest)
+            . Names
+            . Posistions
+            . Locations
+            . Roles in the project
+            . Contact Information
+            . External or Internal
+            . Supporter or resistant
+        2. Planning Stakeholder Management
+            - Make the decisions according to:
+                . Names and Organisations of Key Stakeholders
+                . Theri role on the Project
+                . Unique Fact about each Stakeholder
+                . Level of interest of the Project
+                . Influence of the Project
+                . Suggestions and Strategies for Managing Relationships with each Stakeholder
+        3. Managing Stakeholder Engagement
+            - There are five levels of Engagement
+                1. Unaware
+                2. Resistant
+                3. Neutral
+                4. Supportive
+                5. Champion / Leading
+--------------------------------------------------------------------------------
+10. Project Scheduling （no need for agile in most cases)
+    
+    - Understand the role of project schedule
+        . One of the most important artefacts generated during the project planning phase
+        . Is used and maintained throughout the project to monitor and track project progress - is a living document
+    - Understand how to develop project schedule
+        - It contains:
+            1. Tasks that need to be completed
+                . Break down the tasks into small chunks you can deal with - (WBS)
+            2. Duration and dependencies for each task
+                . Identify the interdependencies between the broken down tasks and develop a task network
+            3. People and physical resources required by each task
+                . Estimate the effort and the time allocation for each task
+                    - Expected time = (P + 4M + O) / 6
+                . Allocate resources for tasks and validate effort
+            4. Milestones and deliverable
+            5. Project Timeline
+    - Understand how to use a project schedule to monitor and track project progress
+        . Gantt chart
+            - Gantt chart is a horizontal bar which shows tasks against a timeline - project schedule.
+            - Can be used to view planned activities vs progress and therefore is a useful tool for monitoring project progress
+        . PERT chart
+            - A task network which shows the dependencies along with time related information and the critical path
+                . understand the characteristics of the project that will let project managers do scheduling trade-offs
+                . perform critical path analysis
+                . monitor project progress and re-plan
+        - EVA (earned value analysis)
+            . PV (Planned Value)
+                . the portion of the approved cost estimate planned to be spent on the given activity during a given period
+            . EV (Earned Value)
+                . the value of the work actually completed
+            . AC (Actual Cost)
+                . the total of the costs incurred in accomplishing work on the activity in a given period
+    - Understand agile planning principles
+        . Plan short iterations
+        . Deliver working software
+        . Use "Just in time Planning"
+        . Use the team
+--------------------------------------------------------------------------------
+11. Cost Estimation
+    
+    - Understand the cost estimation techniques
+        . Expert judgement
+            - Delphi technique
+        . Estimation by Analogy
+        . Pricing to win
+    - Understand software size estimation techniques
+        . Source Lines of Code (SLOC)
+            - advantage
+                . Automation
+                . Intuitive
+            - disadvantage
+                . Variablity
+                . Standard
+                . Hard to estimate before fininshing
+        . Function Points (FP)
+            1. Categorize requirements
+                - Data Funcrions:
+                    . Internal Logical Files (ILF)
+                    . External Interface Files (EIF)
+                - Transaction Functions:
+                    . External Inputs (EI)
+                    . External Output (EO)
+                    . External Inquiries / Queries (EQ)
+            2. Estimate complete value for each category or function
+            3. Compute count total from Complexity
+            4. Estimate value adjustment factors
+                . VAF
+            5. Compute total function point count
+                . FP = count total * (0.65  + 0.01 * allFi)
+            
+            - advantage
+                . Measures the size of the solution instead of the size of the problem
+                . Requirements are the only thing needed for function points count
+                . Can be estimated early in analysis and design
+                . Is independent of technology
+                . Is independenet of programming languages
+            - disadvantage
+                . A well defined requirements specification is necessary
+                . Gaining proficiency is not easy, the learning curve is quite long
+                . Could be quite time-consuming thus might result costly
+            
+        . Use-case Points (UCP)
+            1. Compute Unadjusted Use Case Weight (UUCW)
+            2. Compute Unadjusted Actor Weight (UAW)
+            3. Compute Technical Complexity Factor (TCF)
+                . TCF = 0.6 + TF / 100
+            4. Compute Environment Complexity Factor (ECF)
+                . ECF = 1.4 + (-0.03 * EF)
+            5. COmpute the final size estimate
+                . UCP = (UUCW + UAW) * TCF * ECF
+             
+    - Unserstand the principles of the COCOMO II model for algorithmic cost estimation
+        . Effort = A * Sizeb * M
+            - B = 1.01 + 0.01 * all Wi
+            - M = product of 7 relevant factors
+        . T = 2.5 * Effort (0.33 + 0.2(B -1.01))
+        . N = Effort / T
+    - Understand cost estimation techniques used in Agile software development lifecycles
+        . Develop user stories for the system
+        . Estimate the number of story points for each story, basing the estimate on the number of story points from
+          previous stories, using a chosen technique
+        . Use the team's velocity from previous experience to estimate the delivery time of the project
+        . During development, measure the acutal velocity of the team
+        . Using this velocity, re-estimate the time that it will take to delivery the product
+        
+        - Techniques been used:
+            . Planning Poker
+            . Relative Mass Valuation
+--------------------------------------------------------------------------------
+12. Risk Management
+
+    - Understand how to (Risk Management Process):
+       . Plan risk management activities
+           - Risk Managment Plan (RMP)
+       . Identify risks
+           - probability
+           - impact
+           - degree of control
+           - three types of risk
+               1. Project risks
+                   - Affect the planning of the project (Budget, Schedule, Scope, Personnel)
+               2. Product risks
+                   - Affect the quaility or performance of the outcome being developed (Design, implementaion problems)
+               3. Business risks
+                   - Affect the economic success of the project
+                     (No demand for the product, loss of management support)
+           -- Risk indentification techniques
+               . Pondering
+               . Interviews
+               . Brainstorming
+               . Checklists
+               . Delphi Technique
+               . SWOT Analysis (Strengths, Weaknesses, Opportunities and Threats)
+       . Analyze and assess risks
+           - Analyze - Identify each indentified risk's probability and impact -> Risk Exposure = P * I, lastly
+                       try best to find the root cause
+           - Accessment - Prioritze risk so that an effective risk strategy can be formulated 
+       . Respond to risks (risk strategies)
+           - Four common strategies to handle threats
+               1. Accept or Ignore
+               2. Avoid
+               3. Mitigate
+               4. Transfer
+                   - Insurance
+                   - Outsourcing
+                   - Contract
+           - Four common strategies to handle opportunities:
+               1. Explot
+               2. Enhance
+               3. Share
+               4. Accept
+       . Monitor and control risks
+           - Tools for monitoring and controlling
+               . Risk Audits
+               . Risk Reviews (documents)
+               . Risk status meetings
+--------------------------------------------------------------------------------
+13. Quality Assurance
+
+    - Understand following quality management activites (quality management process)
+        . Quality Assurance
+            - Is primarily concerned with defining or selecting the quality standards
+                . ISO 9000
+                . Capability Maturity Model (CMM)
+                    - Characteristics of the Maturity levels
+                        1. Initial
+                        2. Managed
+                        3. Defined
+                        4. Quaility Managed
+                        5. Optimzing
+        . Quality Planning
+            - Software Quality Plan (SQP)
+        . Quality Control and Monitoring
+            - Verification
+               . Reviews (most common methods)
+                   1. Technical Reviews
+                   2. Business Reviews
+                   3. Managment Reviews
+                   4. Audits
+            - Validation (testing)
